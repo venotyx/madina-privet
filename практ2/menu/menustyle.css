@@ -1,0 +1,179 @@
+body{
+    background-color: rgb(0, 0, 0);
+    margin: 0 auto;
+}
+nav{
+    background-color: rgb(180, 10, 10);
+    position: fixed;
+    width: 100%;
+    margin-top: -250px;
+    z-index: 2;
+}
+.imba1{
+    margin-top: 250px;
+    display: flex;
+}
+.imba2{
+    display: flex;
+    background-color: rgb(31, 31, 31);
+}
+.imba3{
+    display: flex;
+    background-color:  rgb(59, 59, 59);
+}
+.perexod{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.big1{
+    width: 100%;
+    height: 2600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.big2{
+    width: 100%;
+    height: 1100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(31, 31, 31);
+}
+.big3{
+    width: 100%;
+    height: 1100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(59, 59, 59);
+}
+.logo{
+    width: 5vw;
+    height: 5vw;
+}
+.nazv{
+    font-size: 8vw;
+    font-family: brush script mt;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.bl{
+    width: 90%;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.blud{
+    width: 25% ;
+    height: 420px;
+
+}
+.cartinka{
+    width: 100% ;
+    height: 70%;
+    border: 2px solid white;
+}
+.text{
+    width: 100% ;
+    height: 30%;
+    border: 2px solid white;
+}
+h1{
+    color: white;
+    margin: 0;
+    padding: 0; 
+}
+p{
+    font-size: 2vw;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.imya{
+    font-family: segoe print;
+    text-align: left;
+    font-size: 2vw;
+    color: white;
+}
+.dva{
+    text-decoration: none;
+    font-family: segoe script;
+    color: black;
+    padding-left: 7%;
+}
+.one{
+    text-decoration: none;
+    font-family: segoe script;
+    color: black;
+    padding-left: 1%;
+}
+h1{
+    padding-left: 17%;
+    color: rgb(180, 10, 10);
+    font-family: SEGOE print;
+    font-size: 5vw;
+}
+.zagolovok1{
+    width: 50%;
+    background-color: black;
+}
+.zagolovok2{
+    width: 50%;
+    background-color: rgb(31, 31, 31);
+}
+.zagolovok3{
+    width: 50%;
+    background-color: rgb(59, 59, 59);
+}
+hr{
+    margin: 0;
+    padding: 0; 
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+.zno{
+    margin-left: 7%;
+    border-radius: 50%;
+    width: 7vw;
+    height: 7vw;
+    background-color:  rgb(180, 10, 10) ;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+}
+.zn{
+    width: 50px;
+    height: 50px;
+}
+.nay1{
+    z-index: 1;
+    position: absolute;
+    width: 4vw;
+    height: 4vw;
+    left: 28%;
+}
+.nay1{
+    z-index: 1;
+    position: absolute;
+    width: 4vw;
+    height: 4vw;
+    left: 27%;
+}
+.nay2{
+    z-index: 1;
+    position: absolute;
+    width: 4vw;
+    height: 4vw;
+    left: 57%;
+}
